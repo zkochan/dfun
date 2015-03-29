@@ -1,0 +1,23 @@
+{
+  "name": "dfun",
+  "version": "0.0.1",
+  "description": "A tool for creating function overloads",
+  "main": "./lib",
+  "scripts": {
+    "test": "mocha -R spec test/"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/zkochan/dfun.git"
+  },
+  "author": "Zoltan Kochan",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/zkochan/dfun/issues"
+  },
+  "homepage": "https://github.com/zkochan/dfun",
+  "devDependencies": {
+    "chai": "^2.2.0",
+    "mocha": "^2.2.1"
+  }
+}
