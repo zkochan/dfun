@@ -17,7 +17,7 @@
   },
   "homepage": "https://github.com/zkochan/dfun",
   "devDependencies": {
-    "chai": "^2.2.0",
-    "mocha": "^2.2.1"
+    "chai": "^3.5.0",
+    "mocha": "^3.2.0"
   }
 }
